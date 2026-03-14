@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Javier%20Juárez&fontSize=40&fontColor=e0e0e0&fontAlignY=55&animation=twinkling)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=JavierJuárezMX&fontSize=50&fontColor=808080&fontAlignY=55&animation=twinkling)
 
 ## ¡Hi! 🤘🏽
 
@@ -16,7 +16,9 @@
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,django,html,css,js,git,github,mysql,wordpress&theme=dark)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,mysql,wordpress,java,opencv&perline=5" />
+</p>
 
 ---
 
@@ -30,10 +32,11 @@
 
 ## 📬 Drop a message
 
-Find me as **JavierJuarezMX** everywhere 🙌
+- Find me as **JavierJuarezMX** everywhere 🙌
 
 [![Web](https://img.shields.io/badge/🌐_javierjuarez.mx-1a1a2e?style=for-the-badge)](https://www.javierjuarez.mx)
 [![Email](https://img.shields.io/badge/hola@javierjuarez.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@javierjuarez.mx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javierjuarezmx/)
 
 ---
 
